@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="styles.css" />
     <link type="text/javascript" rel="manifest" href="manifest.json" />
     <meta name="theme-color" content="#ffffff" />
+    <link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
     <header>
