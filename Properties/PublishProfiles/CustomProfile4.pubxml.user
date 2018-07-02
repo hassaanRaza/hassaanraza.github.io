@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\www\test</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app.js">
+      <publishTime>07/01/2018 12:26:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>10/16/2017 14:14:32</publishTime>
+    </File>
+    <File Include="bin/offlineWeb.dll">
+      <publishTime>07/01/2018 12:33:18</publishTime>
+    </File>
+    <File Include="bin/offlineWeb.pdb">
+      <publishTime>07/01/2018 12:33:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="fallback.json">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/30/2018 23:26:23</publishTime>
+    </File>
+    <File Include="images/fetch-dog.jpg">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-128x128.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-144x144.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-152x152.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-192x192.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-384x384.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-512x512.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-72x72.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="images/icons/icon-96x96.png">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>07/01/2018 12:01:09</publishTime>
+    </File>
+    <File Include="manifest.json">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="styles.css">
+      <publishTime>12/15/2017 12:11:38</publishTime>
+    </File>
+    <File Include="sw.js">
+      <publishTime>07/01/2018 11:58:07</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/01/2018 12:33:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
